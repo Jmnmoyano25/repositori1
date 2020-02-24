@@ -8,4 +8,8 @@ Hola que tal, estoy probando a hacer repositorios.
 ```bash
 echo "hola" > dev/null
 ```
-***ahora estoy en JAVA***
+**ahora estoy en JAVA**
+*para hacerlo en cursiva*
+```java
+system.out.println("hola");
+```java
